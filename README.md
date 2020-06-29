@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 ## Execution 
 ## Runs the app in the development mode
-### [http://localhost:3000]to view it in the browser.
+### `[http://localhost:3000]`
 
   # Skills 
     > React JS
