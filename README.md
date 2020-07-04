@@ -11,7 +11,7 @@ In the project directory, you can run:
 
 
 ## Execution 
-## Runs the app in the development mode
+#### Runs the app in the development mode
 ### `[http://localhost:3000]`
 
   # Skills 
